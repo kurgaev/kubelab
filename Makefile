@@ -7,3 +7,9 @@
 #cd my-project
 #gh repo create
 
+#--------------
+# Yandex Cloud
+#--------------
+1: init 
+init:
+	yc init
